@@ -20,3 +20,17 @@ This project focuses on accessibility and assistive technology by providing a ha
 
 ## Objective
 The main goal of this project is to create an intuitive and accessible calculator system that improves user interaction through biometric eye signals, offering an alternative communication and control method for users with physical disabilities.
+
+## Running Python Files
+To run Python files and generate Excel sheets:
+
+```bash
+python .\filename.py
+```
+
+## Running the Project
+To run the Streamlit application:
+
+```bash
+streamlit run EOG_Calculator.py
+```
